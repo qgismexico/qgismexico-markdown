@@ -25,5 +25,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           external_repository: qgismexico/qgismexico.github.io
-          github_token: ${{ secrets.PUBLISHQGISMEXICO_TOKEN }}
+          deploy_key: ${{ secrets.QGISMEXICODEPLOYKEY }}
           publish_dir: ./public
