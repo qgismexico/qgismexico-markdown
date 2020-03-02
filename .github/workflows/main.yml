@@ -1,0 +1,9 @@
+- name: Hugo Blog Publisher
+  uses: Skarlso/blog-publisher@v0.0.2
+  
+  action "blog-publisher" {
+  uses = "qgismexico/website-markdown@master"
+  needs = ["blog-builder"]
+  secrets = ["GITHUB_TOKEN", ${{ secrets.PUBLISHQGISMEXICO_TOKEN }}]
+  args = ["qgismexico/qgismexico.github.io"]
+}
