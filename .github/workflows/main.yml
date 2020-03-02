@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - source  # default branch
+      - master  # default branch
 
 jobs:
   deploy:
