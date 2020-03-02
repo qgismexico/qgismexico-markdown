@@ -3,7 +3,7 @@ title = "Core Team QGIS México"
 date = "2014-04-09"
 +++
 
-El grupo de usuarios de **QGIS México** representa los intereses de los usuarios de QGIS en México y pretende promover el uso de **QGIS** en todos los ámbitos en los que son aplicables los Sistemas de Información Geográfica (*SIG*). **QGIS** es un software de ***código abierto*** sin costo lo que permite dotar de una herramienta muy potente de análisis de información geográfica a todo tipo de usuarios sin importar su nivel de conocimientos o capacidad de acceso a software privativo.
+El grupo oficial de usuarios de **QGIS México** representa los intereses de los usuarios de QGIS en México y pretende promover el uso de **QGIS** en todos los ámbitos en los que son aplicables los Sistemas de Información Geográfica (*SIG*). **QGIS** es un software de ***código abierto*** sin costo lo que permite dotar de una herramienta muy potente de análisis de información geográfica a todo tipo de usuarios sin importar su nivel de conocimientos o capacidad de acceso a software privativo.
 
 | Hennessy Amor  Becerra Ayala | Marcela  Rosas Chavoya |Yocsan Guadalupe Contreras Castillo|Alejandro  Padilla Lepe|
 |--|--|--|--|
