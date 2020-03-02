@@ -1,0 +1,13 @@
+name: Hugo to GH Pages
+  uses: chabad360/hugo-gh-pages@v1.1
+  with:
+    # A Github Personal Access Token with Repo permissions
+    githubToken: ${{3a8460b08d4bd7792376eb4e7d354f3ebf777cf7}}
+    # The custom domain name for your GH Pages Site
+    cname: qgismexico.github.io
+    # The branch to push the built site to
+    branch: master
+    # The repo to push the built site to
+    repo: qgismexico/qgismexico.github.io
+    # 
+    hugoVersion: --gc --minify --cleanDestinationDir
