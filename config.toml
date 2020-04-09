@@ -136,12 +136,6 @@ disableLanguages        = ["FR", "PL", "PT", "DE", "ZH-CN", "ZH-TW", "JA", "EN"]
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 3
 
-  [[menu.main]]
-    name              = "Descargar"
-    identifier        = "Download"
-    url               = "https://www.qgis.org/es/site/"
-    pre               = "<i class='far fa-download'></i>"
-    weight            = 7
 
 
           [Languages]
