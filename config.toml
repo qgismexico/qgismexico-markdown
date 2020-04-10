@@ -131,8 +131,8 @@ disableLanguages        = ["FR", "PL", "PT", "DE", "ZH-CN", "ZH-TW", "JA", "EN"]
 
   [[menu.main]]
     name              = "Categorias"
-    identifier        = "categories"
-    url               = "/categories/"
+    identifier        = "qmeetings"
+    url               = "/qmeetings/"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 3
 
